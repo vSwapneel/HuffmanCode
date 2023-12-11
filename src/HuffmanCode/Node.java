@@ -1,4 +1,4 @@
-package Assignment2;
+package HuffmanCode;
 
 // class for nodes of Huffman tree
 
